@@ -1,0 +1,31 @@
+header{
+    background: url(image/fond2.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 980px;
+}
+@media screen and (max-width: 670px){
+    header{
+        min-height: 400px;
+        padding: 20px;
+    }
+    .boite-1{
+    margin-top: -5px;
+    padding-top: 1px;
+}
+    .boites{
+    margin-top: -20px;
+}
+    
+}
+.boite-1{
+    margin-top: 80px;
+    padding-top: 20px;
+}
+.boites{
+    margin-top: 420px;
+}
+.boite2{
+    padding: 10px;
+    margin: 0;
+}
